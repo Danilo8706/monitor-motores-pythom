@@ -17,6 +17,6 @@ sendo elas
  e dá informações como temperatura,vibração,rpm e corrente,sendo eles da usinagem,estamparia,bobinagem e pintura e no final dá o resumo do estado dos motores,indicando se está tudo normal ou á anormalidades e tambem calcula as médias
 
 ---
-# breve sitação em nome de bruno
+# breve citação em nome de bruno
 >a mesma agua que amolece a pedra endurece a batata 
 
